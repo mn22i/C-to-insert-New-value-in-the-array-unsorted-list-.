@@ -11,11 +11,12 @@ Input the Position, where the value to be inserted :2
 Expected Output: 
    The exist array list is: 5 3 9
    After Insert the list is: 5 8 3 9
+   
 
 
 
 
-int[] arr = new int[10];
+            int[] arr = new int[10];
             int n, i, num, loc;
 
             Console.Write("Input the size of array : ");
