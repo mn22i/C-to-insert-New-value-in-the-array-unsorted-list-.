@@ -14,8 +14,8 @@ Expected Output:
 
 
 
-int[] arr = new int[10];
 
+int[] arr = new int[10];
             int n, i, num, loc;
 
             Console.Write("Input the size of array : ");
